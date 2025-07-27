@@ -1,1 +1,1 @@
-![2025-07-27_20-06-47.png](../../Downloads/2025-07-27_20-06-47.png)
+![](C:\Users\User\IdeaProjects\Docker\.idea\2025-07-27_20-06-47.png)
